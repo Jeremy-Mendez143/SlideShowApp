@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SlideShowApp</string>
+    <string name="caption1">Hammerhead Shark</string>
+    <string name="cation2">Sea Turtle</string>
+    <string name="caption3">Octopus</string>
+    <string name="caption4">Humpback Whale</string>
+    <string name="caption5">Seal</string>
+</resources>
